@@ -1,5 +1,5 @@
-a = 4
-b = 4
-d = a + b
+d = 0
+for i in range(8):
+    d += i
 
 print(d)
